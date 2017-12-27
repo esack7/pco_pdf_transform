@@ -1,0 +1,22 @@
+{
+  "name": "pco_pdf_transform",
+  "version": "1.0.0",
+  "description": "Transforming PCO PDF file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esack7/pco_pdf_transform.git"
+  },
+  "author": "Isaac Heist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esack7/pco_pdf_transform/issues"
+  },
+  "homepage": "https://github.com/esack7/pco_pdf_transform#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
