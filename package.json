@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/esack7/pco_pdf_transform#readme",
   "dependencies": {
-    "bluebird": "^3.5.1"
+    "bluebird": "^3.5.1",
+    "pako": "^1.0.6"
   }
 }
